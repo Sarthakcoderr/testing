@@ -1,0 +1,23 @@
+.container{
+    margin-top: 200px;
+    background-color: white;
+    
+}
+.header{
+    text-align: center;
+}
+.text{
+    color: #7e66ff;
+    font-size: 48px;
+}
+.inputs{
+    margin-top: 20px;
+}
+.input{
+    text-align: center;
+    
+}
+.input input{
+    border: none;
+    outline: none;
+}
